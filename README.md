@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m @Michillas:</h1>
 <p align="center">
-    🔭 I’m currently working on - Improving<br>🌱 I’m currently learning - Code<br>💬 Ask me about - Anything<br>⚡ Fun fact - Time is an illusion
+    🔭 - 'Today is a gift, that's why they call it present' - Oogway
 </p>
 
 <h2 align="center"> ✍️ Random Dev Quote</h2>
