@@ -7,9 +7,3 @@
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/> 
 </p>
-
-<h2></h2>
-
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Michillas&icon=5&color=12"/> 
-</p>
