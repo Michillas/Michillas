@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm @Michillas</h1>
 <p align="center">
-    Today is a gift, that's why they call it present<br>
+    Today is a gift, that's why <i>they</i> call it present<br>
     - Oogway
 </p>
 
